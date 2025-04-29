@@ -44,7 +44,7 @@
 # * Una vez configurado todo lo anterior, el codigo se ejecuta llamando al archivo envio_mail_grupo.py
 # * Se recomienda automatizar esta ejecucion desde crontab o task scheduler en la frecuencia que necesite
 
- 
+# Subido a GitHub en https://github.com/C-Holguin/noticias
 
 # Librerias para recoleccion de datos
 import requests
